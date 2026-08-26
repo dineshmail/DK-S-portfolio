@@ -52,7 +52,7 @@ export default async function HomePage() {
 
           <h1 className="text-4xl md:text-6xl font-bold tracking-tight text-white leading-tight font-mono">
             Architecting Scalable, <br />
-            <span className="bg-gradient-to-r from-sky-400 via-teal-300 to-emerald-400 bg-clip-text text-transparent">
+            <span className="bg-linear-to-r from-sky-400 via-teal-300 to-emerald-400 bg-clip-text text-transparent">
               Lag-Free Web Systems
             </span>
           </h1>
